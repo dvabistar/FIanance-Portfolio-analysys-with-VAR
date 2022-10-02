@@ -1,1 +1,3 @@
-# FIanance-Portfolio-analysys-with-VAR
+# Finance-Portfolio-analysys-with-VAR
+
+Оценка рисков инвестиционного портфеля на основе исторических данных за прошлые года
